@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login SIgnup UI</string>
+
+    <string name="email_error">Please Enter a valid email address</string>
+    <string name="password_error">Please Enter a Password </string>
+    <string name="name_error">Enter Full Name</string>
+
+</resources>
